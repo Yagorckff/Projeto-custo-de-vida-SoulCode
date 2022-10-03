@@ -25,10 +25,10 @@
 ## Desafios do projeto:
 
 Nos foi dado o desafio de comparar custos de vida de cidades ou países , então optamos por fazer uma comparação entre a cidade do Rio de janeiro e a de São Paulo. A análise feita foi do ano de 2011 a 2021, e para isso utilizamos as seguintes fontes de dados:
--ANP (Agência Nacional do Petróleo) - Combustível
--ANP (Agência Nacional do Petróleo) - GLP P13(gás de cozinha)
--IPEADATA - Salário minimo
--DIEESE (Departamento Intersindical de Estatística e Estudos Socioeconômicos) - Cesta Básica
+-ANP (Agência Nacional do Petróleo) - Combustível,
+-ANP (Agência Nacional do Petróleo) - GLP P13(gás de cozinha),
+-IPEADATA - Salário minimo,
+-DIEESE (Departamento Intersindical de Estatística e Estudos Socioeconômicos) - Cesta Básica.
 
 
 ## Descrição
